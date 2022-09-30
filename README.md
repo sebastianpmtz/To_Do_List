@@ -1,2 +1,9 @@
-# 01_To_Do_List
-Proyecto 'To do list' con React.
+# TO DO LIST APP
+
+Haremos un proyecto de una 'To Do List', en donde usaremos React.
+
+### FUNCIONAMIENTO:
+
+=> Crear lista de tareas.
+=> Editar elementos de nuestra lista.
+=> Eliminar elementos de nuestra lista.

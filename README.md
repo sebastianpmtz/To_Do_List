@@ -1,11 +1,11 @@
 # TO DO LIST APP
 
-Haremos un proyecto de una 'To Do List', en donde usaremos React.
+Project about a to do list where you can write any work or homework you need to do and then you can check it in the list.
 
-### FUNCIONAMIENTO:
+### HOW IT WORKS?
 
-#### Crear lista de tareas.
+#### You can create any homework you need to do.
 
-#### Editar elementos de nuestra lista.
+#### Later, you can edit it.
 
-#### Eliminar elementos de nuestra lista.
+#### And finally, when you done with the homework, delete ir from the list.
